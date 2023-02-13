@@ -1,8 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
-
 class Database extends ShoppingCart {
     private var storedItems: Array[StoreItem] = new Array[StoreItem](0)
 

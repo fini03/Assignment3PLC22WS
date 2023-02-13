@@ -1,8 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
-
 trait ShoppingCart {
     def delete(id: Int): Array[StoreItem]
     def search(name: String): Array[StoreItem]
